@@ -1,0 +1,19 @@
+{
+  "name": "node_example",
+  "version": "1.0.0",
+  "description": "Sample Code to learn nodejs programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "server",
+    "rest",
+    "api",
+    "http",
+    "https server"
+  ],
+  "author": "Julien Byrnes",
+  "license": "ISC"
+}
